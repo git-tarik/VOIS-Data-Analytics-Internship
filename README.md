@@ -1,5 +1,14 @@
 # VOIS Data Analytics Internship — Tarik Anvar
 
+<!-- Tech badges -->
+[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
+[![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://pandas.pydata.org)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://numpy.org)
+[![matplotlib](https://img.shields.io/badge/matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white)](https://matplotlib.org)
+[![seaborn](https://img.shields.io/badge/seaborn-1d77b8?style=for-the-badge&logo=seaborn&logoColor=white)](https://seaborn.pydata.org)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)](https://scikit-learn.org)
+[![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)](https://jupyter.org)
+
 Welcome to my VOIS Data Analytics Internship portfolio. This repository contains the work I completed during the internship: hands-on sessions, small and major projects, datasets, visual results, and certificates earned. The notebooks and files here showcase data cleaning, exploratory data analysis, visualization, and basic machine learning workflows that demonstrate my practical skills for data analytics roles.
 
 ---
