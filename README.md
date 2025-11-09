@@ -1,4 +1,4 @@
-# VOIS Data Analytics Internship — Tarik Anvar
+# VOIS Data Analytics Internship —Md Tarik Anvar
 
 <!-- Tech badges -->
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org)
@@ -141,3 +141,4 @@ If you'd like a walk-through, polished report, or a tailored resume-ready extrac
 Thank you for reviewing my VOIS internship work. I hope these projects demonstrate practical data analytics skills and a readiness to contribute in an analytics role.
 
 -- Tarik Anvar
+
